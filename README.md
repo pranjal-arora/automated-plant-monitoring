@@ -29,6 +29,10 @@ Plants have always been an important natural component of human existence and su
     - monitor the health of plants using **IoT technology**, by integrating hardware components such as Sensors, Microcontrollers, Wifi Modules etc. 
     - detect diseases in plants using **Machine Learning Models**. 
     - allow users to interact with their plants, using our **Mobile Application "FloraSense"**, and get the real-time stats from plant sensors, as well as get the disease diagnosis.
+  
+![1](https://github.com/pranjal-arora/automated-plant-monitoring/assets/72308670/58dc16c5-8233-47df-82bc-1bd5d840b9ba))
+![2](https://github.com/pranjal-arora/automated-plant-monitoring/assets/72308670/043009f6-54e7-4880-b30e-c4e093abff2a))
+![3](https://github.com/pranjal-arora/automated-plant-monitoring/assets/72308670/068f45fe-df65-4059-ad5d-c06a5109e655))
 
 
 We thoroughly tested and verified the hardware and software components, and deployed our system in a real plant environment.
