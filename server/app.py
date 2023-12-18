@@ -130,7 +130,6 @@ def getResult():
         print(predictions[0])
         new_pred=np.argmax(predictions[0])
         print(new_pred)
-    #     ['COVID19', 'NORMAL', 'OTHERS', 'PNEUMONIA', 'TUBERCOLOSIS']
         dict1={0:'Pepper__bell___Bacterial_spot',1:'Pepper__bell___healthy',2:'Potato___Early_blight',3:'Potato___healthy',4:'Potato___Late_blight',5:'Tomato_Bacterial_spot',6:'Tomato_Early_blight',7:'Tomato_Bacterial_spot',8:'Tomato_Early_blight',9:'Tomato_healthy',10:'Tomato_Late_blight',11:'Tomato_Leaf_Mold',12:'Tomato_Septoria_leaf_spot',13:'Tomato__Target_Spot',14:'Tomato__Tomato_mosaic_virus'}
     
         a=dict1[new_pred]
