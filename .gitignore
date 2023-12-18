@@ -2,9 +2,23 @@
 [Dd]esktop.ini
 
 
-#config files
+#thingspeak api key files
 server/config.py
 
+#cnn proto buffer variables
+server/resnet_classifier.hp5/variables/variables.data-00000-of-00001
+server/resnet_classifier.hp5/variables/variables.index
+
+
+
+
+
+
+
+
+
+
+#android studio 
 *.cab
 *.msi
 *.msix
