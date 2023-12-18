@@ -1,6 +1,10 @@
 # Folder config file
 [Dd]esktop.ini
 
+
+#config files
+server/config.py
+
 *.cab
 *.msi
 *.msix
